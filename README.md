@@ -65,6 +65,8 @@ cv2.destroyAllWindows()
 
 ### Display the result of Closing
 ![download](https://github.com/user-attachments/assets/87c7f862-9e5a-411d-b015-64dbb95b6305)
+![download](https://github.com/user-attachments/assets/da258ac3-37a9-4d29-b096-ad6a2ccd57b3)
+![download](https://github.com/user-attachments/assets/be03bc08-1d67-4409-91d4-efe76023ce3b)
 
 
 ## Result
